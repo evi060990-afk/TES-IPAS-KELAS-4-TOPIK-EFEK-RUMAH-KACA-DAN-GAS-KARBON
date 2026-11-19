@@ -1,0 +1,8 @@
+{
+  "name": "Test Sumatif IPAS Kelas 4",
+  "description": "Aplikasi Tes Sumatif IPAS Kelas 4  DUARUMANIS, sinkronisasi Google Spreadsheet, unduh PDF naskah \u0026 hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
